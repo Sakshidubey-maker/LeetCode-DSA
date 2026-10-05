@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
