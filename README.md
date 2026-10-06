@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/1603-design-parking-system) |
 ## Array
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
