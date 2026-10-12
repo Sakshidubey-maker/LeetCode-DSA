@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -44,13 +45,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/1603-design-parking-system) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sakshidubey-maker/LeetCode-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
